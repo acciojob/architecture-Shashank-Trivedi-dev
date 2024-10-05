@@ -8,3 +8,6 @@
 	width:60%x;
 	
 }
+table,tr,td{
+	border:1px solid black;
+}
