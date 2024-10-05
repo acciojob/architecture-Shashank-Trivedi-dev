@@ -1,8 +1,10 @@
 /*  your css code here. If applicable */
 .main{
+	max-width:1100px;
 	width:1100px;
 	
 }
 .imageContainer{
-	width:60%;
+	max-width:60px;
+	width:60px;
 }
